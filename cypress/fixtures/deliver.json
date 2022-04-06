@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Thiago Cavallari",
+        "cpf": "39787050871",
+        "email": "teste@teste.com",
+        "whatsapp": "1199999222",
+        "address": {
+            "postalcode": "14805428",
+            "street": "Avenida José Santiago Torres",
+            "number": "296",
+            "datails": "teste",
+            "district": "Residencial Cambuy",
+            "city_state": "Araraquara/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Joao Alfredo",
+        "cpf": "397870508AA",
+        "email": "teste@teste.com",
+        "whatsapp": "1199999222",
+        "address": {
+            "postalcode": "14805428",
+            "street": "Avenida José Santiago Torres",
+            "number": "296",
+            "datails": "teste",
+            "district": "Residencial Cambuy",
+            "city_state": "Araraquara/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+
+    },
+    "email_inv": {
+        "name": "Teste email",
+        "cpf": "39787050871",
+        "email": "teste.com.br",
+        "whatsapp": "1199999222",
+        "address": {
+            "postalcode": "14805428",
+            "street": "Avenida José Santiago Torres",
+            "number": "296",
+            "datails": "teste",
+            "district": "Residencial Cambuy",
+            "city_state": "Araraquara/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+
+    }
+}
